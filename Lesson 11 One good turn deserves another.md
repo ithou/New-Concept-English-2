@@ -141,9 +141,9 @@ So far, we ___ (not have) a reply.  **have not had**
 
   **wsish、allow、advise、**
 
-  **like、teach、would **
+  **like、teach、would**
 
-  **+ `sb to do` **
+  **+ `sb to do`**
 
   P.S. 只有hope**不能**用 hope ~~sb~~ to do sth
 

@@ -57,7 +57,7 @@ date: 2018-12-1 19:56
 
    sailed across. 横渡
 
-   > President Jiang **sailed across the Yangtze river ** many times and many years ago. 
+   > President Jiang **sailed across the Yangtze river** many times and many years ago. 
    >
    > 多年前，主席也曾多次 **横渡过长江**！😁
 
