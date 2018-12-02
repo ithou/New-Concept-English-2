@@ -116,3 +116,51 @@ So far, we ___ (not have) a reply.  **have not had**
 ## 多项选择题(Multiple choice questions)
 
 - good & well & fine
+
+  good 一般指广义上的“好” （我不确定）
+
+  well 指身体健康、身体好
+
+  > He is sick, and he is not well.
+
+
+
+## 难点(Special difficulties)
+
+- `want sb to do sth` 
+
+  `want` 动词，作谓语。`sb` 宾语。`to do` 作 **宾补**（宾语补足语）
+
+- `want to do sth`
+
+  `want` 动词，谓语。 `to do sth` ——这一串都做 **宾语**
+
+- 可以加 `sb to do`的动词
+
+  **ask、want、tell、order、expec、**
+
+  **wsish、allow、advise、**
+
+  **like、teach、would **
+
+  **+ `sb to do` **
+
+  P.S. 只有hope**不能**用 hope ~~sb~~ to do sth
+
+- **hope**
+
+  `hope to do`
+
+  `hope that`
+
+  可以说hope sth will happen. 不能说hope sth would happen.
+
+
+## 练习册
+
+- ride.
+
+  `v.` 骑马
+
+  `n.` 旅行
+
