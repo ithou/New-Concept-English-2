@@ -108,6 +108,8 @@ abbrlink: 7fbb3db8
 
 5. Two men ***took*** the parcel ***off*** the plane and ***carried it into*** the Customs House. 
 
-6. While two detective ***were keeping*** guard at the door, **two others** ***opened*** the parcel. To their surprise, the precious parcel ***was full of*** stones and sand!
+6. While two detectives ***were keeping*** guard at the door, **two others** ***opened*** the parcel. To their surprise, the precious parcel ***was full of*** stones and sand!
 
    `at the door` 在门边、在门口
+
+   two others = two other detectives
